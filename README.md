@@ -1,3 +1,5 @@
+![](pix/squeakyscaled.png)
+
 # Access Control Examples
 ####Examples from "Swift 2 to 3" by Erica Sadun<br>*Available from [iTunes](https://itunes.apple.com/us/book/swift-from-two-to-three/id1154616188?ls=1&mt=11) and [LeanPub](https://leanpub.com/swift23)*
 
