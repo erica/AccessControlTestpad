@@ -1,0 +1,1 @@
+*Snail on a board cover image from iStock / Getty images by ne2pi*
