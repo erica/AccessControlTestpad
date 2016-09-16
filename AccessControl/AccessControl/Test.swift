@@ -58,3 +58,15 @@ class ExtSubclass2: OpenClass {
 }
 
 // class ExtSubclass3: PublicClass {} // Cannot inherit from non-open class outside its defining module
+
+extension OpenClass {
+    // var property: String = "Property" // extensions may not contain stored properties
+    var computedProperty: String { return "ComputedProperty" } // works
+    func method() {}  // works
+}
+
+extension PublicClass {
+    // var property: String = "Property" // extensions may not contain stored properties
+    var computedProperty: String { return "ComputedProperty" } // works
+    func method() {}  // works
+}
